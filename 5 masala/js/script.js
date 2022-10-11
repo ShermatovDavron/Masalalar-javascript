@@ -12,7 +12,6 @@
     // cheksiz bo'lsa chiqaring.
 
     let Z = +prompt('Z ning qiymatini kiriting', '')
-
     let X, Y
     let a=0
     if(Z>=0){
